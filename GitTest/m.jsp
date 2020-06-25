@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>m.jsp 입니다.</h1>
-<h2>원격 master </h2> 
+<h2>3</h2>
 
 </body>
 </html>
